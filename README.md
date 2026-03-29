@@ -7,14 +7,12 @@
 - Mark tasks as complete
 
 ### Technologies Used:
-- HTML
-- CSS
-- JavaScript
-- Node.js
+- Python
+- Json
 
 ### Installation:
 1. Clone the repository
-2. Run `npm install` to install the dependencies
+2. Run `npm instal` to install the dependencies
 
 ### Usage:
 - Run the application using `npm start`
