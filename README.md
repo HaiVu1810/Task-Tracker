@@ -19,14 +19,15 @@ https://roadmap.sh/projects/task-tracker
 ├── task_cli.py           # Main CLI entry point with command handlers
 ├── task_manager.py       # Core task management logic
 ├── file_task.json        # Task storage file (auto-created)
-├── requirements.txt      # Project dependencies
+├── setup.py              # Setup app task-cli
 └── README.md            # This file
 ```
 
 ## Installation
 
 1. Clone or download the project
-
+2. Install project 
+pip install -e 
 ## Usage
 
 ### Add a Task
