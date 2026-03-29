@@ -1,8 +1,11 @@
 # Task Tracker CLI 
 
 A command-line task management application that allows you to create, update, and track tasks with different statuses.
+
 ##Project URL
+
 https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - Add new tasks with descriptions
